@@ -1,0 +1,3622 @@
+[
+  {
+    "id": "maya-chen",
+    "name": "Maya Chen",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Product designer at a climate-tech startup. No real public content was extracted.",
+    "profile": {
+      "summary": "Product designer who appears to care about making sustainability tools feel human; weekends look outdoorsy.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "design",
+          "source": "LinkedIn",
+          "confidence": 0.76
+        },
+        {
+          "text": "climate",
+          "source": "LinkedIn",
+          "confidence": 0.67
+        },
+        {
+          "text": "hiking",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "photography",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "coffee",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "hiking",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "photography",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "ceramics",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "values": [
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "sustainability",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "kindness",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "trail recommendations",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "design critique",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "climate tech",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "film photography",
+          "source": "Both",
+          "confidence": 0.81
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "early riser",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "outdoorsy weekends",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "specialty coffee",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "energizers": [
+        {
+          "text": "exploring new trails",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "shipping thoughtful design",
+          "source": "LinkedIn",
+          "confidence": 0.76
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "values outdoor time",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "enjoys deep design talk",
+          "source": "Both",
+          "confidence": 0.84
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Product designer at a climate-tech startup",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "alex-rivera",
+    "name": "Alex Rivera",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Senior engineer at a fintech. No real public content was extracted.",
+    "profile": {
+      "summary": "Backend engineer who likes building reliable systems and, outside work, tends to be climbing or cooking.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.69
+        },
+        {
+          "text": "AI",
+          "source": "LinkedIn",
+          "confidence": 0.75
+        },
+        {
+          "text": "climbing",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "climbing",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "vinyl records",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "values": [
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.91
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "side projects",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "bouldering",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "recipes",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "distributed systems",
+          "source": "Both",
+          "confidence": 0.84
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "active lifestyle",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "hosts dinners",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "late-night coding",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        }
+      ],
+      "energizers": [
+        {
+          "text": "solving hard problems",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        },
+        {
+          "text": "group climbs",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "enjoys active dates",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "likes curious builders",
+          "source": "Both",
+          "confidence": 0.83
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Senior engineer at a fintech",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "sarah-okafor",
+    "name": "Sarah Okafor",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Growth lead at a consumer app. No real public content was extracted.",
+    "profile": {
+      "summary": "Growth marketer with a public interest in travel, food, and building communities around products.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.67
+        },
+        {
+          "text": "travel",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "community",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        },
+        {
+          "text": "writing",
+          "source": "Instagram",
+          "confidence": 0.67
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "food blogging",
+          "source": "Instagram",
+          "confidence": 0.68
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "values": [
+        {
+          "text": "community",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.68
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "street food",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "travel itineraries",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "growth experiments",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "running routes",
+          "source": "Both",
+          "confidence": 0.9
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "frequent traveler",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "foodie",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "morning runs",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "energizers": [
+        {
+          "text": "meeting new people",
+          "source": "Both",
+          "confidence": 0.83
+        },
+        {
+          "text": "trying new cuisines",
+          "source": "Instagram",
+          "confidence": 0.67
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "social and energetic",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "enjoys shared adventures",
+          "source": "Both",
+          "confidence": 0.89
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Growth lead at a consumer app",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "daniel-kim",
+    "name": "Daniel Kim",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Data scientist at a healthcare analytics firm. No real public content was extracted.",
+    "profile": {
+      "summary": "Data scientist who writes about practical ML and appears to unwind with cycling and board games.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "AI",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "data",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        },
+        {
+          "text": "cycling",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "gaming",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.66
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "cycling",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "board games",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "reading",
+          "source": "Instagram",
+          "confidence": 0.64
+        }
+      ],
+      "values": [
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "balance",
+          "source": "Instagram",
+          "confidence": 0.62
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "practical machine learning",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "cycling routes",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "board games",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "sci-fi books",
+          "source": "Both",
+          "confidence": 0.81
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "weekend rides",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "structured routines",
+          "source": "LinkedIn",
+          "confidence": 0.76
+        },
+        {
+          "text": "game nights",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "energizers": [
+        {
+          "text": "clear data stories",
+          "source": "LinkedIn",
+          "confidence": 0.78
+        },
+        {
+          "text": "long rides",
+          "source": "Instagram",
+          "confidence": 0.59
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "likes thoughtful",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "analytical conversation",
+          "source": "Both",
+          "confidence": 0.79
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Data scientist at a healthcare analytics firm",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "priya-nair",
+    "name": "Priya Nair",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Founder of a small food-tech startup. No real public content was extracted.",
+    "profile": {
+      "summary": "Founder who seems to be deeply into food culture and building a mission-driven company.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.69
+        },
+        {
+          "text": "food",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "sustainability",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.67
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "farmers markets",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "yoga",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "values": [
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "sustainability",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "community",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "food systems",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "founder life",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "cooking from scratch",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "travel eats",
+          "source": "Both",
+          "confidence": 0.86
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "market mornings",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "hosts friends",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "yoga",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "energizers": [
+        {
+          "text": "building something meaningful",
+          "source": "LinkedIn",
+          "confidence": 0.67
+        },
+        {
+          "text": "cooking for friends",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "mission-driven",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "enjoys cooking and hosting",
+          "source": "Both",
+          "confidence": 0.86
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Founder of a small food-tech startup",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "jordan-ellis",
+    "name": "Jordan Ellis",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: UX researcher at an education company. No real public content was extracted.",
+    "profile": {
+      "summary": "UX researcher who likes understanding people; public posts suggest love of books and quiet coffee shops.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "design",
+          "source": "LinkedIn",
+          "confidence": 0.77
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "coffee",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "learning",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        },
+        {
+          "text": "writing",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "reading",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "journaling",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "coffee shop hopping",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "values": [
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "kindness",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "learning",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "user interviews",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "book recommendations",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "coffee spots",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "education",
+          "source": "Both",
+          "confidence": 0.83
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "bookstore visits",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "calm weekends",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "early mornings",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "energizers": [
+        {
+          "text": "listening to stories",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        },
+        {
+          "text": "good books",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "thoughtful listener",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "enjoys slow-paced dates",
+          "source": "Both",
+          "confidence": 0.79
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: UX researcher at an education company",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "mateo-alvarez",
+    "name": "Mateo Alvarez",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Sales director at a SaaS company. No real public content was extracted.",
+    "profile": {
+      "summary": "Sales leader who appears outgoing, sports-minded, and social on weekends.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        },
+        {
+          "text": "fitness",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "community",
+          "source": "LinkedIn",
+          "confidence": 0.76
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "football",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "gym",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "live music",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "values": [
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "loyalty",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.89
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "live music",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "football",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "travel plans",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "team building",
+          "source": "Both",
+          "confidence": 0.84
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "gym regular",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "social weekends",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "concert-goer",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "energizers": [
+        {
+          "text": "live events",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "closing a big deal",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "high-energy",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "likes lively plans",
+          "source": "Both",
+          "confidence": 0.8
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Sales director at a SaaS company",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "lena-fischer",
+    "name": "Lena Fischer",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Machine learning researcher. No real public content was extracted.",
+    "profile": {
+      "summary": "Researcher in applied AI who seems to enjoy mountains and quiet reading.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "AI",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        },
+        {
+          "text": "data",
+          "source": "LinkedIn",
+          "confidence": 0.78
+        },
+        {
+          "text": "hiking",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "climate",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "hiking",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "reading",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "skiing",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "values": [
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.84
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "AI research",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "mountain trips",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "long reads",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "climate modeling",
+          "source": "Both",
+          "confidence": 0.86
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "weekend hikes",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "quiet evenings",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "structured days",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        }
+      ],
+      "energizers": [
+        {
+          "text": "deep focus work",
+          "source": "LinkedIn",
+          "confidence": 0.67
+        },
+        {
+          "text": "mountain air",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "curious and grounded",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "enjoys the outdoors",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Machine learning researcher",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "omar-haddad",
+    "name": "Omar Haddad",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Architect at an urban design studio. No real public content was extracted.",
+    "profile": {
+      "summary": "Architect interested in cities and design, and who appears to travel for architecture and food.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "design",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        },
+        {
+          "text": "travel",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "photography",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "art",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "photography",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "sketching",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "values": [
+        {
+          "text": "creativity",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "community",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "urban design",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "architecture travel",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "sketching",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "street photography",
+          "source": "Both",
+          "confidence": 0.79
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "city wanderer",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "sketchbook in hand",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "foodie",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "energizers": [
+        {
+          "text": "walking new cities",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "design challenges",
+          "source": "LinkedIn",
+          "confidence": 0.73
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "creative",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "loves exploring places",
+          "source": "Both",
+          "confidence": 0.92
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Architect at an urban design studio",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "chloe-martin",
+    "name": "Chloe Martin",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Content creator and brand strategist. No real public content was extracted.",
+    "profile": {
+      "summary": "Creator who appears energetic, visual-first, and into fitness and fashion.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "writing",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "fitness",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "art",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "yoga",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "pilates",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "thrifting",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "values": [
+        {
+          "text": "creativity",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "kindness",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.65
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "brand storytelling",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "pilates",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "thrifting",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "travel content",
+          "source": "Both",
+          "confidence": 0.85
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "wellness routines",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "social media savvy",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "early workouts",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "energizers": [
+        {
+          "text": "creating content",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "wellness time",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "expressive",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "enjoys creative and active plans",
+          "source": "Both",
+          "confidence": 0.92
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Content creator and brand strategist",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "ravi-patel",
+    "name": "Ravi Patel",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Cloud infrastructure engineer. No real public content was extracted.",
+    "profile": {
+      "summary": "Infra engineer who likes tinkering; public photos suggest cricket, cooking, and gaming nights.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        },
+        {
+          "text": "AI",
+          "source": "LinkedIn",
+          "confidence": 0.78
+        },
+        {
+          "text": "gaming",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "gaming",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "cricket",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "values": [
+        {
+          "text": "learning",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        },
+        {
+          "text": "loyalty",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "systems reliability",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "cricket",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "cooking",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "video games",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "game nights",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "home cook",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "structured routines",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        }
+      ],
+      "energizers": [
+        {
+          "text": "fixing tricky outages",
+          "source": "LinkedIn",
+          "confidence": 0.75
+        },
+        {
+          "text": "cooking for friends",
+          "source": "Instagram",
+          "confidence": 0.62
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "easygoing",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "enjoys low-key social time",
+          "source": "Both",
+          "confidence": 0.82
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Cloud infrastructure engineer",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "emma-johansson",
+    "name": "Emma Johansson",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Sustainability consultant. No real public content was extracted.",
+    "profile": {
+      "summary": "Consultant focused on climate strategy; appears to spend free time cycling and outdoors.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "climate",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "sustainability",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "cycling",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "hiking",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "cycling",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "camping",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "gardening",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "values": [
+        {
+          "text": "sustainability",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "community",
+          "source": "Instagram",
+          "confidence": 0.66
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "climate policy",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "bike touring",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "camping",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "gardening",
+          "source": "Both",
+          "confidence": 0.9
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "car-free commuting",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "outdoor weekends",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "plant-based cooking",
+          "source": "Instagram",
+          "confidence": 0.64
+        }
+      ],
+      "energizers": [
+        {
+          "text": "outdoor time",
+          "source": "Instagram",
+          "confidence": 0.68
+        },
+        {
+          "text": "making climate progress",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "values-driven",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "enjoys active outdoor plans",
+          "source": "Both",
+          "confidence": 0.85
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Sustainability consultant",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "noah-williams",
+    "name": "Noah Williams",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Indie game developer. No real public content was extracted.",
+    "profile": {
+      "summary": "Solo game developer who seems creative and introverted, with interests in music and art.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "gaming",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "design",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "art",
+          "source": "Instagram",
+          "confidence": 0.69
+        },
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "gaming",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "guitar",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "drawing",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "values": [
+        {
+          "text": "creativity",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "balance",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "game design",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "indie music",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "pixel art",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "shipping solo projects",
+          "source": "Both",
+          "confidence": 0.79
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "night owl",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "home studio",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "small gatherings",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "energizers": [
+        {
+          "text": "making things from scratch",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        },
+        {
+          "text": "jam sessions",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "creative",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "enjoys quieter settings",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Indie game developer",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "aisha-rahman",
+    "name": "Aisha Rahman",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Public health researcher. No real public content was extracted.",
+    "profile": {
+      "summary": "Researcher focused on community programs; appears to enjoy running and volunteering.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "community",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "learning",
+          "source": "LinkedIn",
+          "confidence": 0.77
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.68
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.68
+        },
+        {
+          "text": "volunteering",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "reading",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "values": [
+        {
+          "text": "kindness",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "community",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "honesty",
+          "source": "Instagram",
+          "confidence": 0.59
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "community programs",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "half-marathon training",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "book clubs",
+          "source": "Both",
+          "confidence": 0.85
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "morning runs",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "volunteers weekly",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "book club",
+          "source": "Instagram",
+          "confidence": 0.64
+        }
+      ],
+      "energizers": [
+        {
+          "text": "helping communities",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "running events",
+          "source": "Instagram",
+          "confidence": 0.59
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "warm and service-minded",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "enjoys active routines",
+          "source": "Both",
+          "confidence": 0.92
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Public health researcher",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "lucas-bernard",
+    "name": "Lucas Bernard",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Venture capital associate. No real public content was extracted.",
+    "profile": {
+      "summary": "Early-stage investor who appears curious about startups and into tennis and wine tasting.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "AI",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "fitness",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "tennis",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "wine tasting",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "values": [
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.67
+        },
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "loyalty",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "startup trends",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "tennis",
+          "source": "Both",
+          "confidence": 0.83
+        },
+        {
+          "text": "travel",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "restaurants",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "weekly tennis",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "dining out",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "frequent flyer",
+          "source": "Instagram",
+          "confidence": 0.62
+        }
+      ],
+      "energizers": [
+        {
+          "text": "meeting founders",
+          "source": "LinkedIn",
+          "confidence": 0.69
+        },
+        {
+          "text": "weekend tennis",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "sociable",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "likes good food and active plans",
+          "source": "Both",
+          "confidence": 0.82
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Venture capital associate",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "yuki-tanaka",
+    "name": "Yuki Tanaka",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Motion designer. No real public content was extracted.",
+    "profile": {
+      "summary": "Motion designer who seems inspired by film and animation, with a taste for ramen and city walks.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "design",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "film",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "art",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "film watching",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "sketching",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "city walks",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "values": [
+        {
+          "text": "creativity",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "kindness",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "animation",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "film recs",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "ramen spots",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "design tools",
+          "source": "Both",
+          "confidence": 0.91
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "cinema nights",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "city walks",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "foodie",
+          "source": "Instagram",
+          "confidence": 0.66
+        }
+      ],
+      "energizers": [
+        {
+          "text": "movie nights",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "creative briefs",
+          "source": "LinkedIn",
+          "confidence": 0.76
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "playful and creative",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "enjoys cozy plans",
+          "source": "Both",
+          "confidence": 0.83
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Motion designer",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "grace-adeyemi",
+    "name": "Grace Adeyemi",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Nurse educator turned health-tech PM. No real public content was extracted.",
+    "profile": {
+      "summary": "Health-tech PM who appears caring and upbeat, into dance and yoga.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "learning",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        },
+        {
+          "text": "community",
+          "source": "LinkedIn",
+          "confidence": 0.65
+        },
+        {
+          "text": "fitness",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "dancing",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "yoga",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "values": [
+        {
+          "text": "kindness",
+          "source": "Both",
+          "confidence": 0.83
+        },
+        {
+          "text": "community",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "balance",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "dance classes",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "wellness",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "healthy recipes",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "mentoring",
+          "source": "Both",
+          "confidence": 0.81
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "weekly dance",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "wellness routines",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "mentors juniors",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        }
+      ],
+      "energizers": [
+        {
+          "text": "teaching and mentoring",
+          "source": "LinkedIn",
+          "confidence": 0.77
+        },
+        {
+          "text": "dance floor",
+          "source": "Instagram",
+          "confidence": 0.61
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "nurturing and lively",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "enjoys active dates",
+          "source": "Both",
+          "confidence": 0.85
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Nurse educator turned health-tech PM",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "ethan-brooks",
+    "name": "Ethan Brooks",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: High-school teacher and writer. No real public content was extracted.",
+    "profile": {
+      "summary": "Teacher who writes on the side; public posts suggest love of books, running, and storytelling.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "writing",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "books",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "community",
+          "source": "LinkedIn",
+          "confidence": 0.71
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "reading",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "writing",
+          "source": "Instagram",
+          "confidence": 0.6
+        }
+      ],
+      "values": [
+        {
+          "text": "kindness",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.86
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "book recs",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "running",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "storytelling",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "teaching tips",
+          "source": "Both",
+          "confidence": 0.83
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "early runs",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "library visits",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "writes daily",
+          "source": "Instagram",
+          "confidence": 0.59
+        }
+      ],
+      "energizers": [
+        {
+          "text": "a good story",
+          "source": "Both",
+          "confidence": 0.83
+        },
+        {
+          "text": "mentoring students",
+          "source": "LinkedIn",
+          "confidence": 0.69
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "reflective and kind",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "enjoys meaningful chats",
+          "source": "Both",
+          "confidence": 0.89
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: High-school teacher and writer",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "sofia-rossi",
+    "name": "Sofia Rossi",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Chef and restaurant owner. No real public content was extracted.",
+    "profile": {
+      "summary": "Chef who seems centered on food, seasonal cooking, and hosting.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "food",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "cooking",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "art",
+          "source": "Instagram",
+          "confidence": 0.67
+        },
+        {
+          "text": "community",
+          "source": "Instagram",
+          "confidence": 0.61
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "markets",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "wine",
+          "source": "Instagram",
+          "confidence": 0.69
+        }
+      ],
+      "values": [
+        {
+          "text": "creativity",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "community",
+          "source": "Instagram",
+          "confidence": 0.61
+        },
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.77
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "seasonal menus",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "travel eats",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "hosting",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "wine pairings",
+          "source": "Both",
+          "confidence": 0.82
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "hosts dinners",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "market mornings",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "late nights",
+          "source": "LinkedIn",
+          "confidence": 0.69
+        }
+      ],
+      "energizers": [
+        {
+          "text": "feeding people",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "discovering ingredients",
+          "source": "Instagram",
+          "confidence": 0.63
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "warm host",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "loves food-led adventures",
+          "source": "Both",
+          "confidence": 0.8
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Chef and restaurant owner",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "kabir-singh",
+    "name": "Kabir Singh",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Quant analyst. No real public content was extracted.",
+    "profile": {
+      "summary": "Quant who appears analytical; public posts hint at chess, running, and travel.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "data",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "AI",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "chess",
+          "source": "Instagram",
+          "confidence": 0.7
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "reading",
+          "source": "Instagram",
+          "confidence": 0.68
+        }
+      ],
+      "values": [
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.75
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "markets",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "chess",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "running",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "travel",
+          "source": "Both",
+          "confidence": 0.8
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "structured routines",
+          "source": "LinkedIn",
+          "confidence": 0.76
+        },
+        {
+          "text": "morning runs",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "early nights",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "energizers": [
+        {
+          "text": "puzzles",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "running goals",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "analytical and focused",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "enjoys calm conversation",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Quant analyst",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "hannah-schmidt",
+    "name": "Hannah Schmidt",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Climate journalist. No real public content was extracted.",
+    "profile": {
+      "summary": "Journalist covering climate; seems into hiking, photography, and local food.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "climate",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "writing",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "hiking",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "photography",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "sustainability",
+          "source": "Instagram",
+          "confidence": 0.59
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "hiking",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "photography",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "farmers markets",
+          "source": "Instagram",
+          "confidence": 0.69
+        }
+      ],
+      "values": [
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "sustainability",
+          "source": "Both",
+          "confidence": 0.81
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "climate stories",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "hikes",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "photo trips",
+          "source": "Both",
+          "confidence": 0.84
+        },
+        {
+          "text": "local food",
+          "source": "Both",
+          "confidence": 0.87
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "outdoor weekends",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "field trips",
+          "source": "LinkedIn",
+          "confidence": 0.68
+        },
+        {
+          "text": "seasonal eating",
+          "source": "Instagram",
+          "confidence": 0.66
+        }
+      ],
+      "energizers": [
+        {
+          "text": "telling important stories",
+          "source": "LinkedIn",
+          "confidence": 0.66
+        },
+        {
+          "text": "trail days",
+          "source": "Instagram",
+          "confidence": 0.67
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "curious and outdoorsy",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "enjoys meaningful talk",
+          "source": "Both",
+          "confidence": 0.8
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Climate journalist",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "diego-morales",
+    "name": "Diego Morales",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Fitness coach and gym founder. No real public content was extracted.",
+    "profile": {
+      "summary": "Gym founder with a strong fitness and community focus; appears social and motivational.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "fitness",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "community",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "startups",
+          "source": "LinkedIn",
+          "confidence": 0.67
+        },
+        {
+          "text": "food",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.62
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "weightlifting",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "running",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "cooking",
+          "source": "Instagram",
+          "confidence": 0.59
+        }
+      ],
+      "values": [
+        {
+          "text": "ambition",
+          "source": "LinkedIn",
+          "confidence": 0.68
+        },
+        {
+          "text": "community",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "loyalty",
+          "source": "Instagram",
+          "confidence": 0.61
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "training",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "nutrition",
+          "source": "Both",
+          "confidence": 0.81
+        },
+        {
+          "text": "small business",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "music",
+          "source": "Both",
+          "confidence": 0.84
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "gym daily",
+          "source": "Instagram",
+          "confidence": 0.65
+        },
+        {
+          "text": "meal prep",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "early riser",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "energizers": [
+        {
+          "text": "helping clients win",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "group workouts",
+          "source": "Instagram",
+          "confidence": 0.58
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "motivating and sociable",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "enjoys active plans",
+          "source": "Both",
+          "confidence": 0.87
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Fitness coach and gym founder",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "zoe-campbell",
+    "name": "Zoe Campbell",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: PhD student in neuroscience. No real public content was extracted.",
+    "profile": {
+      "summary": "Grad student studying brain science; appears to enjoy climbing, baking, and podcasts.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "learning",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        },
+        {
+          "text": "data",
+          "source": "LinkedIn",
+          "confidence": 0.68
+        },
+        {
+          "text": "climbing",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.69
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "climbing",
+          "source": "Instagram",
+          "confidence": 0.57
+        },
+        {
+          "text": "baking",
+          "source": "Instagram",
+          "confidence": 0.68
+        },
+        {
+          "text": "podcasts",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "values": [
+        {
+          "text": "curiosity",
+          "source": "Both",
+          "confidence": 0.89
+        },
+        {
+          "text": "honesty",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "balance",
+          "source": "Instagram",
+          "confidence": 0.62
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "brain science",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "climbing gyms",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "baking",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "podcasts",
+          "source": "Both",
+          "confidence": 0.79
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "climbing gym regular",
+          "source": "Instagram",
+          "confidence": 0.62
+        },
+        {
+          "text": "baking weekends",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "busy weeks",
+          "source": "LinkedIn",
+          "confidence": 0.74
+        }
+      ],
+      "energizers": [
+        {
+          "text": "a good experiment",
+          "source": "LinkedIn",
+          "confidence": 0.75
+        },
+        {
+          "text": "bouldering sessions",
+          "source": "Instagram",
+          "confidence": 0.66
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "curious and playful",
+          "source": "Both",
+          "confidence": 0.9
+        },
+        {
+          "text": "enjoys active and cozy plans",
+          "source": "Both",
+          "confidence": 0.92
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: PhD student in neuroscience",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "tariq-ahmed",
+    "name": "Tariq Ahmed",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Startup CTO. No real public content was extracted.",
+    "profile": {
+      "summary": "CTO who appears to love building products and traveling to tech hubs; also plays football socially.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "startups",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "AI",
+          "source": "Both",
+          "confidence": 0.82
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "fitness",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "music",
+          "source": "Instagram",
+          "confidence": 0.57
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "football",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "travel",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "podcasts",
+          "source": "Instagram",
+          "confidence": 0.69
+        }
+      ],
+      "values": [
+        {
+          "text": "ambition",
+          "source": "Both",
+          "confidence": 0.79
+        },
+        {
+          "text": "learning",
+          "source": "Both",
+          "confidence": 0.86
+        },
+        {
+          "text": "loyalty",
+          "source": "Instagram",
+          "confidence": 0.66
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "AI products",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "hiring",
+          "source": "Both",
+          "confidence": 0.83
+        },
+        {
+          "text": "football",
+          "source": "Both",
+          "confidence": 0.85
+        },
+        {
+          "text": "travel",
+          "source": "Both",
+          "confidence": 0.88
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "frequent traveler",
+          "source": "Instagram",
+          "confidence": 0.59
+        },
+        {
+          "text": "weekend football",
+          "source": "Instagram",
+          "confidence": 0.64
+        },
+        {
+          "text": "long work days",
+          "source": "LinkedIn",
+          "confidence": 0.72
+        }
+      ],
+      "energizers": [
+        {
+          "text": "building teams",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        },
+        {
+          "text": "pickup games",
+          "source": "Instagram",
+          "confidence": 0.65
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "driven and sociable",
+          "source": "Both",
+          "confidence": 0.91
+        },
+        {
+          "text": "enjoys lively plans",
+          "source": "Both",
+          "confidence": 0.79
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Startup CTO",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  },
+  {
+    "id": "isabel-cruz",
+    "name": "Isabel Cruz",
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "avatar": null,
+    "demo": true,
+    "sourceText": "SYNTHETIC DEMO PERSONA — not a real person. Role: Illustrator and art teacher. No real public content was extracted.",
+    "profile": {
+      "summary": "Illustrator who seems warm and imaginative; shares sketches, plants, and coffee shop visits.",
+      "summarySource": "Both",
+      "summaryConfidence": 0.78,
+      "interests": [
+        {
+          "text": "art",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "design",
+          "source": "Instagram",
+          "confidence": 0.68
+        },
+        {
+          "text": "books",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "coffee",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "community",
+          "source": "LinkedIn",
+          "confidence": 0.69
+        }
+      ],
+      "hobbies": [
+        {
+          "text": "drawing",
+          "source": "Instagram",
+          "confidence": 0.6
+        },
+        {
+          "text": "gardening",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "coffee shop hopping",
+          "source": "Instagram",
+          "confidence": 0.67
+        }
+      ],
+      "values": [
+        {
+          "text": "creativity",
+          "source": "Both",
+          "confidence": 0.88
+        },
+        {
+          "text": "kindness",
+          "source": "Both",
+          "confidence": 0.83
+        },
+        {
+          "text": "balance",
+          "source": "Instagram",
+          "confidence": 0.7
+        }
+      ],
+      "conversationTopics": [
+        {
+          "text": "illustration",
+          "source": "Both",
+          "confidence": 0.8
+        },
+        {
+          "text": "plant care",
+          "source": "Both",
+          "confidence": 0.92
+        },
+        {
+          "text": "coffee spots",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "teaching art",
+          "source": "Both",
+          "confidence": 0.9
+        }
+      ],
+      "lifestyleSignals": [
+        {
+          "text": "slow mornings",
+          "source": "Instagram",
+          "confidence": 0.66
+        },
+        {
+          "text": "plant-filled home",
+          "source": "Instagram",
+          "confidence": 0.63
+        },
+        {
+          "text": "teaches weekly",
+          "source": "LinkedIn",
+          "confidence": 0.7
+        }
+      ],
+      "energizers": [
+        {
+          "text": "a blank sketchbook",
+          "source": "Instagram",
+          "confidence": 0.58
+        },
+        {
+          "text": "teaching kids art",
+          "source": "LinkedIn",
+          "confidence": 0.65
+        }
+      ],
+      "compatibilitySignals": [
+        {
+          "text": "gentle and creative",
+          "source": "Both",
+          "confidence": 0.87
+        },
+        {
+          "text": "enjoys slow-paced dates",
+          "source": "Both",
+          "confidence": 0.92
+        }
+      ]
+    },
+    "extraction": {
+      "status": "demo",
+      "notes": [
+        "Role: Illustrator and art teacher",
+        "Fictional persona seeded for the demo. Replace with verified public links."
+      ]
+    }
+  }
+]

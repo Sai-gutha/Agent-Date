@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; }
+body {
+  background: #09090b;
+  color: #fafafa;
+  font-family: ui-sans-serif, -apple-system, "Inter", "Segoe UI", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.glow { background: radial-gradient(60% 50% at 50% 0%, rgba(255,255,255,0.08), transparent 70%); }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+.rise { animation: rise .45s cubic-bezier(.2,.8,.2,1) both; }
+@keyframes blink { 0%,80%,100% { opacity: .2; } 40% { opacity: 1; } }
+.dot { animation: blink 1.2s infinite; }
+.dot:nth-child(2) { animation-delay: .15s; }
+.dot:nth-child(3) { animation-delay: .3s; }
