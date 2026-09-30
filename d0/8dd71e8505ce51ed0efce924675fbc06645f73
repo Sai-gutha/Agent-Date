@@ -1,0 +1,93 @@
+.env.example
+  s_f43f68ad2d10d2::t_980a98e5e18b0a 1-8
+.gitignore
+  s_f43f68ad2d10d2::t_461dfd6db81a90 1-7
+README.md
+  s_f43f68ad2d10d2::t_c1b20cc8780f4a 1-86
+app/api/build/route.ts
+  s_f43f68ad2d10d2::t_995d3dde5d9821 1-43
+app/api/date/route.ts
+  s_f43f68ad2d10d2::t_0fee37572c10eb 1-24
+app/api/explain/route.ts
+  s_f43f68ad2d10d2::t_4d429e2247060e 1-28
+app/date/[a]/[b]/page.tsx
+  s_f43f68ad2d10d2::t_b6903d5d346669 1-5
+app/globals.css
+  s_f43f68ad2d10d2::t_05287ba8fd390d 1-16
+app/layout.tsx
+  s_f43f68ad2d10d2::t_3a16ce920ae1c3 1-25
+app/page.tsx
+  s_f43f68ad2d10d2::t_b0c62329b2587e 1-18
+app/profile/[id]/page.tsx
+  s_f43f68ad2d10d2::t_0ce41899c60a34 1-4
+app/rankings/[id]/page.tsx
+  s_f43f68ad2d10d2::t_50fd2badcd99da 1-4
+components/AgentGrid.tsx
+  s_f43f68ad2d10d2::t_2882a81657169a 1-33
+components/BuildForm.tsx
+  s_f43f68ad2d10d2::t_32b95ffde5a4c5 1-56
+components/DateView.tsx
+  s_f43f68ad2d10d2::t_988ae169c065fa 1-124
+components/NotFound.tsx
+  s_f43f68ad2d10d2::t_64fd8743729394 1-8
+components/ProfileView.tsx
+  s_f43f68ad2d10d2::t_afd589ae3516af 1-62
+components/RankingsView.tsx
+  s_f43f68ad2d10d2::t_44f4a346ca1005 1-52
+components/ui.tsx
+  s_f43f68ad2d10d2::t_354314ead68aa0 1-72
+data/people.json
+  s_f43f68ad2d10d2::t_be652aa42315d8 1-3622
+lib/analyzePerson.ts
+  s_f43f68ad2d10d2::t_de70b5f5a67b74 1-63
+lib/extractProfile.ts
+  s_f43f68ad2d10d2::t_da9ca57400fc7b 1-215
+lib/llm.ts
+  s_f43f68ad2d10d2::t_3020bcf21f39b7 1-64
+lib/rankMatches.ts
+  s_f43f68ad2d10d2::t_ba7af66c3fadb9 1-56
+lib/runAgentDate.ts
+  s_f43f68ad2d10d2::t_8f8a96195ccd98 1-126
+lib/safety.ts
+  s_f43f68ad2d10d2::t_2f25236006e609 1-6
+lib/stream.ts
+  s_f43f68ad2d10d2::t_1f122c0c0c9759 1-33
+lib/text.ts
+  s_f43f68ad2d10d2::t_b595873d80ed4d 1-20
+lib/types.ts
+  s_f43f68ad2d10d2::t_839c827bea4de5 1-91
+lib/usePeople.ts
+  s_f43f68ad2d10d2::t_e0396e53000552 1-40
+next.config.ts
+  s_f43f68ad2d10d2::t_9dc481d416310d 1-5
+package-lock.json
+  s_f43f68ad2d10d2::t_f7defb62b674de 1-2130
+package.json
+  s_f43f68ad2d10d2::t_a06af7213f7597 1-24
+postcss.config.mjs
+  s_f43f68ad2d10d2::t_3f2fff14122f65 1
+scripts/generate-seed.mjs
+  s_f43f68ad2d10d2::t_da8daed176b2f1 1-72
+tsconfig.json
+  s_f43f68ad2d10d2::t_3e1bcc0eb1f81e 1-41
+AGENTS.md
+  s_f43f68ad2d10d2::t_05fd92fb62757e 1-9
+CLAUDE.md
+  s_f43f68ad2d10d2::t_65b7f16eecedbb 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d08dd71e8505ce51ed0efce924675fbc06645f73",
+  "prompts": {},
+  "sessions": {
+    "s_f43f68ad2d10d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f17ca75b-22bc-4595-955d-0687d6d04300",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Sai Karthik Gutha <saikarthikgutha@Guthas-MacBook-Air.local>"
+    }
+  }
+}
